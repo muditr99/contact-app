@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+#page-heading{
+    text-align: center;
+    margin-top: 25px;
+    color: grey;
+}
+
+ul{
+    margin-top: 5%;
+}
+
+li{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 10%;
+}
+
+a{
+    color: grey;
+}
+
+a:hover{
+    color: hotpink;
+}
+
+.icon{
+    padding-top: 13px;
+}
